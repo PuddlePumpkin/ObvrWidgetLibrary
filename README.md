@@ -8,6 +8,7 @@ This repository contains recreations of the original UI widget prefabs with asse
 Someone may eventually figure out how to create functional dummy's of the original navigable prefabs, till then having an alternative is nice!
 
 ⚠️ **Note:** *No original game assets (textures, meshes, or code) are included in this repository.*
+
 This project is **NOT** associated with Bethesda, Zenimax, Virtuos or any of their subsidiaries!
 
 ---
