@@ -24,7 +24,7 @@ This project is **NOT** associated with Bethesda, Zenimax, Virtuos or any of the
    - Right-click the desired widget(s) in the Content Browser.
    - Select **"Migrate"** and choose your project's Content folder.
 3. **Move the migrated prefabs** to your mod's directory in engine, and include them in your pak chunk.
-4. ⚠️**Do not include the dummy textures or materials in your pak chunk, or they wont render properly in game**!⚠️
+4. ⚠️**Do not include the dummy textures or materials in your pak chunk, or they wont render properly in game**!
 
 ---
 
